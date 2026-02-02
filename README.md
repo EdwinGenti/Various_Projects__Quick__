@@ -1,11 +1,9 @@
-<h1>Divers Projets (Various Projects)</h1>
+<h1>Various Projects</h1>
 
 
 
 <h2>Description</h2>
-Divers projets QGIS, faits principalement via les tutoriels présents sur le site : https://www.qgistutorials.com/en/
-<br>
-<br>
+
 Various QGIS projects, mainly made using the tutorials available on the website : https://www.qgistutorials.com/en/
 <br />
 
@@ -18,3 +16,5 @@ Various QGIS projects, mainly made using the tutorials available on the website 
 
 <h2>Made on 1/27/2026 by GENTI Edwin</h2>
 
+<h2>References</h2>
+- <b>Ujaval Gandhi, https://www.qgistutorials.com/en/</b>
