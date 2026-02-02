@@ -18,3 +18,6 @@ Various QGIS projects, mainly made using the tutorials available on the website 
 
 <h2>References</h2>
 - <b>Ujaval Gandhi, https://www.qgistutorials.com/en/</b>
+
+<br><br>
+- <b>Version française de ce projet : https://github.com/EdwinGenti/Divers_Projets</b>
